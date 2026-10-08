@@ -4,3 +4,5 @@
 __pycache__/
 *.csv
 large_dataset.bin
+*.duckdb
+init.sql
